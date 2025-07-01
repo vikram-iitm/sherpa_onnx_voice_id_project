@@ -1,0 +1,7 @@
+sherpa-onnx
+torch
+torchaudio
+numpy
+scipy
+soundfile
+python-dotenv
